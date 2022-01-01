@@ -1,0 +1,2744 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2022-01-01\n"
+"Last-Translator: mrkorte ˛\n"
+"Language-Team: Hu <LL@li.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, java-format
+msgstr "§eNincs hozzáférésed (§4{0}§e)"
+msgstr ""
+
+#, java-format
+msgstr "§eInvalid parancs: {0}"
+msgstr ""
+
+#, java-format
+msgstr "§7 Használat: {0}"
+msgstr ""
+
+#, java-format
+msgstr "
+msgstr ""
+
+#, java-format
+msgstr "
+msgstr ""
+
+msgstr "fájlba menti a parancsok dokumentációját"
+msgstr ""
+
+#, java-format
+msgstr "Dokumentációt írt ide: {0}"
+msgstr ""
+
+#, java-format
+msgstr "§4 Hiba a dokumentáció írása közben: {0}"
+msgstr ""
+
+msgstr "megváltoztatja a bővítmény nyelvét, és újratölti"
+msgstr ""
+
+#, java-format
+msgstr "§aSikeresen megváltozott a nyelv erre: §e{0}"
+msgstr ""
+
+#, java-format
+msgstr "§cNem sikerült módosítani a nyelvet §e-re{0}"
+msgstr ""
+
+msgstr "§9Támogatott nyelvek:\n"
+msgstr ""
+
+#, java-format
+msgstr "§f{0} §7{1} §9, szerző: {2} §7{3}\n"
+msgstr ""
+
+msgstr "§cNem található semmilyen nyelv."
+msgstr ""
+
+msgstr "Parancs"
+msgstr ""
+
+msgstr "Engedély"
+msgstr ""
+
+msgstr "Leírás"
+msgstr ""
+
+#, java-format
+msgstr "§f{0}x §7{1}"
+msgstr ""
+
+#, java-format
+msgstr "§7{0}"
+msgstr ""
+
+msgstr "d"
+msgstr ""
+
+msgstr "h"
+msgstr ""
+
+msgstr "m"
+msgstr ""
+
+msgstr "s"
+msgstr ""
+
+#, java-format
+msgstr "{0,szám,0}:{1,szám,00}.{2,szám,000}"
+msgstr ""
+
+#, java-format
+msgstr " §f{0}x §7{1}"
+msgstr ""
+
+#, java-format
+msgstr "§eMég mindig a következő blokkok rövidek: {0}"
+msgstr ""
+
+#, java-format
+msgstr "§4 Ezt még {0} alkalommal befejezheti."
+msgstr ""
+
+#, java-format
+msgstr "" "§4 A követelmények {0} napon belül visszaállnak."
+msgstr ""
+
+#, java-format
+msgstr "" "§4 A követelmények {0} órán belül visszaállnak."
+msgstr ""
+
+#, java-format
+msgstr "" "§4 A követelmények {0} percen belül visszaállnak."
+msgstr ""
+
+msgstr "§4Ez a kihívás jelenleg nem érhető el."
+msgstr ""
+
+#, java-format
+msgstr "§4 Ezt {0} napon belül újra elvégezheti."
+msgstr ""
+
+#, java-format
+msgstr "§4 Ezt {0} óra múlva újra elvégezheti."
+msgstr ""
+
+#, java-format
+msgstr "§4 Ezt {0} perc múlva újra elvégezheti."
+msgstr ""
+
+msgstr "§eEz a kihívás a következőket igényli:"
+msgstr ""
+
+msgstr "§7 és több..."
+msgstr ""
+
+msgstr "" "A §eElemeket jutalomért cseréljük."
+msgstr ""
+
+#, java-format
+msgstr "§eMeg kell lennie {0} méteren belül."
+msgstr ""
+
+msgstr "§6 elem jutalom: §a"
+msgstr ""
+
+#, java-format
+msgstr "§6 Pénznem jutalom: §a{0}"
+msgstr ""
+
+#, java-format
+msgstr "§6 Exp Jutalom: §a{0}"
+msgstr ""
+
+#, java-format
+msgstr "§dÖsszesen teljesített idő: §f{0}"
+msgstr ""
+
+#, java-format
+msgstr "§7: {0} szükséges"
+msgstr ""
+
+#, java-formatban
+msgstr "§4Nem található {0} nevű kihívás"
+msgstr ""
+
+msgstr "§4 Ehhez a szigeten kell lennie!"
+msgstr ""
+
+#, java-format
+msgstr "§4 A(z) {0} kihívás még nem érhető el!"
+msgstr ""
+
+#, java-format
+msgstr "§4 A(z) {0} kihívás nem ismételhető!"
+msgstr ""
+
+#, java-format
+msgstr "§4Még nem teljesítheti újra a(z) {0} kihívást!"
+msgstr ""
+
+#, java-format
+msgstr "§eKihívás teljesítése §a{0}"
+msgstr ""
+
+#, java-format
+msgstr "§4{0}"
+msgstr ""
+
+#, java-format
+msgstr "§4 Az összes szükséges elemtől {0} blokkon belül kell állnia."
+msgstr ""
+
+#, java-format
+msgstr "
+msgstr ""
+
+#, java-format
+msgstr "§4 Ismeretlen típusú kihívás: {0}"
+msgstr ""
+
+#, java-format
+msgstr ""
+"§eA következő entitások továbbra is rövidek:\n"
+"{0}"
+msgstr ""
+
+#, java-format
+msgstr " §4{0} §b{1}"
+msgstr ""
+
+#, java-format
+msgstr "§eA következő elemek rövidek:{0}"
+msgstr ""
+
+#, java-format
+msgstr "§aBefejezted a(z) {0} kihívást!"
+msgstr ""
+
+#, java-format
+msgstr ""§9{0}§f teljesítette a §9{1}§f kihívást!"
+msgstr ""
+
+#, java-format
+msgstr "§eItem jutalom(ok): §f{0}"
+msgstr ""
+
+#, java-format
+msgstr "§eExp jutalom: §f{0,szám,#.#}"
+msgstr ""
+
+#, java-format
+msgstr "§eCurrency jutalom: §f{0,number,###.##} {1} §a ({2,szám,##.##})%"
+msgstr ""
+
+msgstr "" "§eA készlete §4 teljes§e. A földre esett tárgyak."
+msgstr ""
+
+msgstr "§e§lKattintson a kihívás teljesítéséhez."
+msgstr ""
+
+msgstr "§4§lNem ismételheti meg ezt a kihívást."
+msgstr ""
+
+#, java-format
+msgstr "Rangsor: {0}"
+msgstr ""
+
+msgstr "§fA legtöbb kihívás teljesítése itt:"
+msgstr ""
+
+msgstr "" "§f ez a rang a következő rang feloldásához."
+msgstr ""
+
+msgstr "§eKattintson ide az előző oldal megjelenítéséhez"
+msgstr ""
+
+msgstr "§eKattintson ide a következő oldal megjelenítéséhez"
+msgstr ""
+
+msgstr "§4§lLocked Challenge"
+msgstr ""
+
+#, java-format
+msgstr "§7 Teljesíts {0} további {1} §7 kihívást"
+msgstr ""
+
+#, java-format
+msgstr "7.§ Teljes {0}"
+msgstr ""
+
+msgstr "a rang feloldásához"
+msgstr ""
+
+msgstr "De te ALLLLLLLL ALOOOOONE vagy!"
+msgstr ""
+
+msgstr "De te kiabálsz a szélben!"
+msgstr ""
+
+msgstr "De a fantáziabarátaid elmentek!"
+msgstr ""
+
+msgstr "De te magaddal beszélsz!"
+msgstr ""
+
+#, java-format
+msgstr "§cElnézést! {0}"
+msgstr ""
+
+msgstr "Vagy küldjön üzenetet közvetlenül a csoportnak, vagy kapcsolja be/ki."
+msgstr ""
+
+msgstr "buli"
+msgstr ""
+
+msgstr "sziget"
+msgstr ""
+
+#, java-format
+msgstr "§cCsevegés átkapcsolva a következőre: {0} §aON"
+msgstr ""
+
+#, java-format
+msgstr "§c Ismételje meg a §9{0}§c parancsot a kikapcsoláshoz"
+msgstr ""
+
+#, java-format
+msgstr "§aToggled chat §cOFF§a ehhez: {0}"
+msgstr ""
+
+msgstr "A §cCommand csak a játékosok számára elérhető"
+msgstr ""
+
+msgstr "beszélj a szigeteden lévő játékosokkal"
+msgstr ""
+
+msgstr "beszélj a szigetpartival"
+msgstr ""
+
+#, java-format
+msgstr "A §ePlayer {0} nem rendelkezik szigettel!"
+msgstr ""
+
+#, java-format
+msgstr "" "§eInvalid player ({0}) megadva."
+msgstr ""
+
+msgstr "Kihívások kezelése egy játékos számára"
+msgstr ""
+
+msgstr "Visszaállítja a kihívást a játékos számára"
+msgstr ""
+
+msgstr "A §4 kihívás még soha nem fejeződött be"
+msgstr ""
+
+#, java-format
+msgstr "
+msgstr ""
+
+msgstr "Minden kihívást visszaállít a játékos számára"
+msgstr ""
+
+#, java-format
+msgstr "" "§e{0} az összes kihívást visszaállította."
+msgstr ""
+
+msgstr "Teljesítsd be az összes kihívást a rangban"
+msgstr ""
+
+#, java-format
+msgstr "§4Nem található {0} nevű játékos!"
+msgstr ""
+
+#, java-format
+msgstr ""§4 A(z) {0}. kihívás már befejeződött"
+msgstr ""
+
+#, java-format
+msgstr "A §eChallenge {0} befejeződött {1} számára"
+msgstr ""
+
+#, java-format
+msgstr "§4Nem található {0} nevű kihívás!"
+msgstr ""
+
+#, java-format
+msgstr "§4Nem található {0} nevű rang!"
+msgstr ""
+
+msgstr "Szigetek kezelése"
+msgstr ""
+
+msgstr "Védi a szigetet"
+msgstr ""
+
+msgstr "A sziget törlése (eltávolítja a blokkokat)"
+msgstr ""
+
+msgstr "§9Elhagyott sziget törölve a jelenlegi helyedről."
+msgstr ""
+
+msgstr ""
+"§4 Az ezen a helyen lévő szigetnek vannak tagjai!\n"
+"§eHasználja a §9/usb island delete <név>§e törléséhez."
+msgstr ""
+
+msgstr "Eltávolítja a lejátszót a szigetről"
+msgstr ""
+
+msgstr "Hozzáadja a lejátszót a szigethez"
+msgstr ""
+
+#, java-format
+msgstr "§b{0}§d csatlakozott a szigetcsoportodhoz."
+msgstr ""
+
+#, java-format
+msgstr "§4Nem található {0} nevű játékos!"
+msgstr ""
+
+msgstr ""
+"4.§ Nincs érvényes sziget, vagy álljon egyben, vagy biztosítson szigetet"
+"név"
+msgstr ""
+
+msgstr "információk nyomtatása a szigetről"
+msgstr ""
+
+msgstr "beállítja a sziget életközösségét"
+msgstr ""
+
+msgstr "§4A játékosnak nincs szigete."
+msgstr ""
+
+msgstr "§4Nincs érvényes sziget az Ön tartózkodási helyén"
+msgstr ""
+
+msgstr "megtisztítja a szigetet"
+msgstr ""
+
+msgstr "§4Hiba! §9Nem található érvényes sziget a tisztításhoz."
+msgstr ""
+
+#, java-format
+msgstr "§cPURGE: §9 Kitisztított sziget itt: {0}"
+msgstr ""
+
+msgstr "átkapcsolja a szigetek figyelmen kívül hagyási állapotát"
+msgstr ""
+
+#, java-format
+msgstr "
+msgstr ""
+
+#, java-format
+msgstr ""
+"§c Eltávolítottuk {0} szigetének figyelmen kívül hagyó jelzőjét, most az első tízben fog megjelenni és "
+"tisztítás".
+msgstr ""
+
+msgstr "§4Nincs érvényes játékosnév megadva."
+msgstr ""
+
+#, java-format
+msgstr "{0} eltávolítása a szigetről"
+msgstr ""
+
+#, java-format
+msgstr "§eMódosult {0} szigetének életrajza a következőre: {1}."
+msgstr ""
+
+#, java-format
+msgstr "§e {0} szigetének biomja ÓCEÁN-ra változott."
+msgstr ""
+
+msgstr "§aLehet, hogy el kell menni a spawn-hoz vagy újra kell jelentkeznie a változások megtekintéséhez."
+msgstr ""
+
+#, java-format
+msgstr "" "§e{0} életrajza a következőre módosult: {1}."
+msgstr ""
+
+#, java-format
+msgstr "" "§e{0} életrajza megváltozott: "OCEAN."
+msgstr ""
+
+#, java-format
+msgstr "§eEltávolítása {0} szigetének."
+msgstr ""
+
+msgstr "Hiba: Ennek a játékosnak nincs szigete!"
+msgstr ""
+
+#, java-format
+msgstr "§e{0} szigete itt: {1} védett"
+msgstr ""
+
+#, java-format
+msgstr "§4{0} szigete ({1}) már védett volt"
+msgstr ""
+
+msgstr "különféle chunk parancsok"
+msgstr ""
+
+msgstr "áramdarab újragenerálása"
+msgstr ""
+
+#, java-format
+msgstr "A darab sikeresen újragenerálva a következő időpontban: {0},{1}"
+msgstr ""
+
+msgstr "az aktuális darab kiürítése"
+msgstr ""
+
+#, java-format
+msgstr "A darab sikeresen eltávolítva a következő időpontban: {0},{1}"
+msgstr ""
+
+#, java-format
+msgstr "" "§4 SIKERTELEN!§e nem tudta kirakni a darabot a következő időpontban: {0},{1}"
+msgstr ""
+
+msgstr "áramdarab betöltése"
+msgstr ""
+
+#, java-format
+msgstr "darab betöltve: {0},{1}"
+msgstr ""
+
+msgstr "csak játékosok számára elérhető"
+msgstr ""
+
+#, java-format
+msgstr "§4ERROR:§e {0}"
+msgstr ""
+
+msgstr "GUI megnyitása a konfigurációhoz"
+msgstr ""
+
+msgstr "megkeresi a konfigurációt egy adott kulcsra"
+msgstr ""
+
+#, java-format
+msgstr "§c{0}§9"
+msgstr ""
+
+#, java-format
+msgstr "§9{0}§8: §e{1}"
+msgstr ""
+
+#, java-format
+msgstr "A következő egyező {0}:"
+msgstr ""
+
+msgstr "§a<szakasz>"
+msgstr ""
+
+#, java-format
+msgstr "§3{0,number,#.##}"
+msgstr ""
+
+#, java-format
+msgstr "§2{0}"
+msgstr ""
+
+msgstr "§eInvalid konfigurációnév"
+msgstr ""
+
+msgstr "Szabályozza a játékos lehűtését"
+msgstr ""
+
+msgstr "törli a lehűlést egy parancsnál (* = minden)"
+msgstr ""
+
+msgstr "§eA játékos jelenleg nincs online"
+msgstr ""
+
+#, java-format
+msgstr "Lehűlés törölve ekkor: {0}, {1}"
+msgstr ""
+
+#, java-format
+msgstr "Nincs aktív lehűlés a következőn: {0} a következőhöz: {1}!"
+msgstr ""
+
+msgstr "Érvénytelen parancs lett megadva, csak újraindítás és biom támogatott!"
+msgstr ""
+
+msgstr "újraindítja a lehűlést a parancsra"
+msgstr ""
+
+#, java-format
+msgstr "§eReset lehűlés ekkor: {0} {1}§e - {2} másodpercig"
+msgstr ""
+
+msgstr "felsorolja az összes aktív lehűlést"
+msgstr ""
+
+msgstr "§eCmd Cooldown"
+msgstr ""
+
+#, java-format
+msgstr "§a{0} §c{1}"
+msgstr ""
+
+#, java-format
+msgstr "§eNincs aktív lehűlés a 9. §-hoz{0}§e."
+msgstr ""
+
+msgstr "hibakeresés vezérlése"
+msgstr ""
+
+msgstr "hibakeresési szint beállítása"
+msgstr ""
+
+msgstr "kapcsolja be a hibakeresési naplózást"
+msgstr ""
+
+msgstr "" "§4A naplózás nem volt aktív, ezért nem tilthatja le!"
+msgstr ""
+
+msgstr "a naplózó aktuális tartalmát fájlba öblíteni."
+msgstr ""
+
+msgstr "" "§eLog-fájl ki lett törölve."
+msgstr ""
+
+msgstr "" "§4A naplózás nincs engedélyezve, használja az §d/usb hibakeresés engedélyezését"
+msgstr ""
+
+msgstr "4
+msgstr ""
+
+msgstr "§enaplózás letiltva!"
+msgstr ""
+
+msgstr "megpróbálja rögzíteni a síkság területét."
+msgstr ""
+
+msgstr "§4Nem található érvényes sziget"
+msgstr ""
+
+#, java-format
+msgstr "§4Nem észleltünk síkságot {0} szigetén!"
+msgstr ""
+
+msgstr "az összes gyorsítótárat fájlba öblíti"
+msgstr ""
+
+#, java-format
+msgstr ""
+"§eFlushed §a{0} islands§e, §b{1} játékosok és §6{2} kihívás-teljesítések."
+msgstr ""
+
+msgstr "a top 10 lista manuális frissítése"
+msgstr ""
+
+msgstr "§eA tíz legjobb lista létrehozása"
+msgstr ""
+
+msgstr "§eBefejezett tíz lista létrehozása"
+msgstr ""
+
+msgstr "Speciális parancs a szigetadatok lekéréséhez"
+msgstr ""
+
+#, java-format
+msgstr "§eA(z) {0} jelenlegi értéke ''{1}''"
+msgstr ""
+
+#, java-format
+msgstr "§cNem sikerült lekérni a(z) {0} állapotát"
+msgstr ""
+
+#, java-format
+msgstr "§eÉrvényes mezők: {0}"
+msgstr ""
+
+msgstr "teleportál egy másik játékos szigetre"
+msgstr ""
+
+msgstr "§4Csak játékosok számára támogatott"
+msgstr ""
+
+msgstr "§4Ennek a játékosnak nincs szigete!"
+msgstr ""
+
+#, java-format
+msgstr "§aTeleportálás {0} szigetére."
+msgstr ""
+
+msgstr "más formátumból importálja a lejátszókat és a szigeteket"
+msgstr ""
+
+msgstr "szabályozza az aszinkron feladatokat"
+msgstr ""
+
+msgstr "§9 Munkastatisztika"
+msgstr ""
+
+msgstr "7. §----------------"
+msgstr ""
+
+msgstr "#"
+msgstr ""
+
+msgstr "ms/job"
+msgstr ""
+
+msgstr "ms/tick"
+msgstr ""
+
+msgstr "pipák"
+msgstr ""
+
+msgstr "cselekvés"
+msgstr ""
+
+msgstr "idő"
+msgstr ""
+
+msgstr "név"
+msgstr ""
+
+msgstr "A vezetés átadása egy másik játékosnak"
+msgstr ""
+
+#, java-format
+msgstr "" "§4A(z) {0} játékosnak nincs áthelyezhető szigete!"
+msgstr ""
+
+#, java-format
+msgstr ""
+"§ePlayer §d{0}§e már rendelkezik szigettel.§eHasználja az §d/usb island remove <név>§e "
+"először eltávolítani őt."
+msgstr ""
+
+#, java-format
+msgstr "
+msgstr ""
+
+msgstr "haladó információ az NBT-cuccokról"
+msgstr ""
+
+msgstr "megmutatja az NBTT címkét az aktuálisan tárolt elemhez"
+msgstr ""
+
+msgstr "§cNincs cikk a kézben!"
+msgstr ""
+
+#, java-format
+msgstr "§eInfo for §9{0}"
+msgstr ""
+
+#, java-format
+msgstr "§7 - név: §9{0}"
+msgstr ""
+
+#, java-format
+msgstr "§7 - nbttag: §9{0}"
+msgstr ""
+
+msgstr "§eCsak játékosként hajtható végre"
+msgstr ""
+
+msgstr "beállítja az NBTT címkét az aktuálisan tartott elemen"
+msgstr ""
+
+#, java-format
+msgstr "§eSet §9{0}§e to §c{1}"
+msgstr ""
+
+msgstr "hozzáadja az NBTTcímkét az aktuálisan tartott elemhez"
+msgstr ""
+
+#, java-format
+msgstr "§eAdded §9{0}§e to §c{1}"
+msgstr ""
+
+msgstr "árvák kezelése"
+msgstr ""
+
+msgstr "számlálja az árvákat"
+msgstr ""
+
+#, java-format
+msgstr "" "§e{0} régi szigethely kerül felhasználásra az újak előtt."
+msgstr ""
+
+msgstr "árvák törlése"
+msgstr ""
+
+msgstr "§eMinden régi (üres) szigethely törlése."
+msgstr ""
+
+msgstr "árvák listája"
+msgstr ""
+
+msgstr "§eJelenleg nincs regisztrálva árva."
+msgstr ""
+
+#, java-format
+msgstr "§eOrphans ({0}/{1}): {2}"
+msgstr ""
+
+msgstr "perk-információkat mutat"
+msgstr ""
+
+msgstr "megmutat egy adott játékos jutalmait"
+msgstr ""
+
+#, java-format
+msgstr "további jutalmak {0}"
+msgstr ""
+
+msgstr "Minden szigetet megvéd (időigényes)"
+msgstr ""
+
+msgstr "§cMegpróbáljuk megszakítani a " "minden védelmét szolgáló feladatot."
+msgstr ""
+
+msgstr ""
+"§4Sajnáljuk!§e A Protect-all már fut. Hagyja, hogy előbb fejezze be, vagy használja a "
+"§9usb protectionall §cstop"
+msgstr ""
+
+msgstr "§eEgy mindent védő feladat indítása. Ez eltart egy ideig."
+msgstr ""
+
+msgstr "megtisztítja az összes elhagyott szigetet"
+msgstr ""
+
+msgstr "§4Meg kell adnia az életkort napokban a tisztításhoz!"
+msgstr ""
+
+msgstr "§4A szintnek érvényes számnak kell lennie"
+msgstr ""
+
+#, java-format
+msgstr ""
+"§eAz összes olyan sziget megkeresése, amely több mint {0} napja elhagyott volt lent"
+"1. szint}"
+msgstr ""
+
+#, java-format
+msstr "
+msgstr ""
+
+msgstr "§4 Megpróbálja megszakítani a tisztítást"
+msgstr ""
+
+msgstr "§4A tisztítás megszakadt!"
+msgstr ""
+
+msgstr "" "§4A tisztítás már fut.§e Vagy a §9confirm§e vagy a §9stop§e."
+msgstr ""
+
+msgstr "§4 Tisztítás indítása..."
+msgstr ""
+
+msgstr "régió manipulációk"
+msgstr ""
+
+msgstr "megmutatja az aktuális sziget határait"
+msgstr ""
+
+msgstr "§eNem található sziget az Ön jelenlegi helyén"
+msgstr ""
+
+msgstr "megmutatja az aktuális darab határait"
+msgstr ""
+
+msgstr "megmutatja a belső darabok határait"
+msgstr ""
+
+msgstr "megmutatja a nem darabokhoz igazított szegélyeket"
+msgstr ""
+
+msgstr "megmutatja a külső darabok határait"
+msgstr ""
+
+msgstr "újra elrejti a régiókat"
+msgstr ""
+
+msgstr "§eA régiók megjelenítése leállt"
+msgstr ""
+
+msgstr "§e Jelenleg nincs megjelenített régió ehhez a lejátszóhoz"
+msgstr ""
+
+msgstr "jelölje be a pipát az animációk között"
+msgstr ""
+
+#, java-format
+msgstr "" "§eAnimation-tick a következőre változott: {0}."
+msgstr ""
+
+msgstr "" "Az §eAnimation-ticknek érvényes egész számnak kell lennie."
+msgstr ""
+
+msgstr "frissíti a meglévő animációkat"
+msgstr ""
+
+msgstr "egy játékos szigetének beállítása a helyedre"
+msgstr ""
+
+#, java-format
+msgstr "§aÁllítsa be {0} szigetét az aktuális szigetre."
+msgstr ""
+
+msgstr "" "§4A sziget nem található: nem lehet beállítani a szigetet!"
+msgstr ""
+
+msgstr "a konfiguráció újratöltése fájlból."
+msgstr ""
+
+msgstr "" "§eConfiguration újratöltve a fájlból."
+msgstr ""
+
+msgstr "haladó parancs a szigetadatok beállításához"
+msgstr ""
+
+#, java-format
+msgstr "§c{0} értéke ''{1}''"
+msgstr ""
+
+#, java-format
+msgstr "§cNem lehet beállítani a(z) {0} mezőt ''{1}'' értékre"
+msgstr ""
+
+#, java-format
+msgstr "§cNem lehet beállítani a(z) {0} mezőt ''{1}'' értékre, szám várt" "
+msgstr ""
+
+#, java-format
+msgstr "§cÉrvénytelen mező {0}"
+msgstr ""
+
+msgstr "átkapcsolja a karbantartási módot"
+msgstr ""
+
+msgstr "§cKARBANTARTÁS: §aAktiválva§az uSkyBlock összes funkciója jelenleg le van tiltva."
+msgstr ""
+
+msgstr ""
+"§cKARBANTARTÁS: §4Deaktiválva§e az uSkyBlock összes funkciója újra működőképes."
+msgstr ""
+
+msgstr "§cKarbantartási mód csak konzolról módosítható!"
+msgstr ""
+
+msgstr "§cABORTED:§e A Protect-All megszakadt!"
+msgstr ""
+
+#, java-format
+msgstr "§eBefejezve a Protect-all itt: {0}, {1} új régió jött létre!"
+msgstr ""
+
+#, java-format
+msgstr "7. § - SZKENNELÉS: {0,szám,##}% ({1}/{2} sikertelen: {3}) ~ {4}"
+msgstr ""
+
+msgstr "§4 TISZTÍTÁS:§9 A vizsgálat megszakítva."
+msgstr ""
+
+#, java-format
+msgstr ""
+"§4 TISZTÍTÁS:§9 A vizsgálat befejeződött, {0} jelöltet találtunk, {1}. szint alatt, készen áll a következőre: "
+"purgatórium."
+msgstr ""
+
+#, java-format
+msgstr ""
+"- TISZTÍTÁS: {0,szám,##}% ({1}/{2}), eltelt {3}, becsült befejezés ~{4}"
+msgstr ""
+
+msgstr "§4TISZTÍTÁS:§9 Az elhagyott szigetek megtisztítása befejeződött."
+msgstr ""
+
+msgstr "§4TISZTÍTÁS:§9 Az elhagyott szigetek tisztítása megszakítva."
+msgstr ""
+
+msgstr "verzióinformációkat jelenít meg"
+msgstr ""
+
+msgstr "különféle WorldGuard segédprogramok"
+msgstr ""
+
+msgstr "frissíti a darabokat a lejátszó körül"
+msgstr ""
+
+msgstr "§edarabok újraküldése az ügyfélnek"
+msgstr ""
+
+msgstr "a régió darabjainak betöltése"
+msgstr ""
+
+#, java-format
+msgstr "§e Darabok betöltése itt: {0}"
+msgstr ""
+
+#, java-format
+msgstr "§e Darabok kirakása itt: {0}"
+msgstr ""
+
+msgstr "frissítse a munkacsoport régióit"
+msgstr ""
+
+#, java-format
+msgstr "A §eIsland világőrségi régiói frissítve a következőhöz: {0}"
+msgstr ""
+
+msgstr "§eNem található sziget az Ön tartózkodási helyén!"
+msgstr ""
+
+msgstr "frissíti a darabot a lejátszó körül"
+msgstr ""
+
+msgstr "Utimate SkyBlock Admin"
+msgstr ""
+
+msgstr "játékos információ megjelenítése"
+msgstr ""
+
+msgstr "próbálj meg egy kihívást teljesíteni"
+msgstr ""
+
+msgstr "A §cCommand csak játékosok számára érhető el."
+msgstr ""
+
+msgstr "információk megjelenítése a kihívásról"
+msgstr ""
+
+msgstr "§eRank: "
+msgstr ""
+
+msgstr "§4Ez a kihívás nem ismételhető!"
+msgstr ""
+
+msgstr "
+msgstr ""
+
+#, java-format
+msgstr ""
+"§4 Az összes szükséges tárgyat a szigeten kell elhelyezni, tőled {0} háztömbnyire."
+msgstr ""
+
+#, java-format
+msgstr "§eA kihívás teljesítéséhez használja az §f/c c {0} parancsot"
+msgstr ""
+
+msgstr "4
+msgstr ""
+
+msgstr "teljesítsd ki és listázd ki a kihívásokat"
+msgstr ""
+
+msgstr "" "Az §eChallenges le van tiltva. Forduljon a rendszergazdához."
+msgstr ""
+
+msgstr "§4Csak a skyblock világban küldhetsz be kihívásokat!"
+msgstr ""
+
+msgstr "§4Csak akkor küldhetsz be kihívásokat, ha van szigeted!"
+msgstr ""
+
+msgstr ""
+"§4 A szigeted megtelt, vagy túl sok függőben lévő meghívója van. Nem teheti meg."
+– hívj meg mást is.
+msgstr ""
+
+msgstr "§4Az a játékos már vezető egy másik szigeten."
+msgstr ""
+
+#, java-format
+msgstr "" "§e{0}§e megpróbált meghívni, de már buliban vagy."
+msgstr ""
+
+#, java-format
+msgstr "§aMeghívó elküldve a következőnek: {0}"
+msgstr ""
+
+#, java-format
+msgstr "{0}§e meghívott, hogy csatlakozz a szigetéhez!"
+msgstr ""
+
+msgstr "" "§f/sziget [elfogadás/elutasítás]§e a meghívó elfogadásához vagy elutasításához."
+msgstr ""
+
+msgstr "4.§ FIGYELMEZTETÉS: Ha elfogadja, elveszíti jelenlegi szigetét!"
+msgstr ""
+
+#, java-format
+msgstr "{0}§d meghívva: {1}"
+msgstr ""
+
+#, java-format
+msgstr "{0}§e elutasította a meghívást."
+msgstr ""
+
+msgstr "
+msgstr ""
+
+msgstr ""
+"§aCsatlakoztál egy szigethez! Használd a /sziget partit a többi tag megtekintéséhez."
+msgstr ""
+
+#, java-format
+msgstr "" "A(z) {0}§e meghívása időtúllépést szenvedett, vagy törölték."
+msgstr ""
+
+#, java-format
+msgstr "
+msgstr ""
+
+msgstr "§eElfogadtad a meghívást, hogy csatlakozz egy szigethez."
+msgstr ""
+
+msgstr "§4Nem kaptál meghívást."
+msgstr ""
+
+msgstr "§eElutasítottad a meghívást, hogy csatlakozz egy szigethez."
+msgstr ""
+
+msgstr "meghívás elfogadása/elutasítása."
+msgstr ""
+
+msgstr "teleportál a szigetedre (vagy hozz létre egyet)"
+msgstr ""
+
+msgstr "Egy játékos kitiltása/feloldása a szigetéről."
+msgstr ""
+
+msgstr "felmenti a felhasználót a kitiltás alól"
+msgstr ""
+
+msgstr "§eA következő játékosok el vannak tiltva attól, hogy a szigetedre csavarogjanak:"
+msgstr ""
+
+msgstr "§eA szigetedről való kitiltáshoz/feloldáshoz használja a /island ban <player> parancsot"
+msgstr ""
+
+msgstr "
+msgstr ""
+
+msgstr "§4Nincs engedélyed játékosok kirúgására/eltiltására."
+msgstr ""
+
+#, java-format
+msgstr "§eNem lehet kitiltani az ismeretlen játékost {0}"
+msgstr ""
+
+#, java-format
+msgstr "" "§4{0} megpróbált kitiltani a szigetükről!"
+msgstr ""
+
+#, java-format
+msgstr "" "§4{0} mentes a kitiltás alól."
+msgstr ""
+
+#, java-format
+msgstr "§eMegtiltottad a §4{0}§e-t, hogy a szigetedre vetemedjen."
+msgstr ""
+
+#, java-format
+msgstr "§eÖn §cBANNED§e lett {0}§e szigetéről."
+msgstr ""
+
+#, java-format
+msgstr "" "§eÖn letiltotta §a{0}§e-nek, hogy a szigetére vetemedjen."
+msgstr ""
+
+#, java-format
+msgstr "" "§eÖn §aUNBANNED§e lett {0}§e szigetéről."
+msgstr ""
+
+msgstr "változtassa meg a sziget életközösségét"
+msgstr ""
+
+msgstr "a lejátszó felmentése a biome-hűtés alól"
+msgstr ""
+
+#, java-format
+msgstr "Engedd, hogy a játékos módosítsa a szigetek életközösségét a következőre: {0}"
+msgstr ""
+
+msgstr ""
+"§cNincs engedélyed a jelenlegi szigeted életrajzának megváltoztatására."
+msgstr ""
+
+msgstr "§4Nincs engedélye a sziget életrajzának megváltoztatására!"
+msgstr ""
+
+msgstr "§eAz életközösség megváltoztatásához a szigeten kell lennie!"
+msgstr ""
+
+#, java-format
+msgstr "
+msgstr ""
+
+#, java-format
+msgstr "§e0,szám,#} perc múlva újra megváltoztathatja életrajzát."
+msgstr ""
+
+msgstr "§cNincs engedélye arra, hogy a biomját erre a típusra módosítsa."
+msgstr ""
+
+#, java-format
+msgstr ""
+"§7 A pixik azon vannak, hogy az Ön közelében lévő életrajzot 9{0}§7-re változtassák, légy türelmes."
+msgstr ""
+
+#, java-format
+msgstr ""
+"§7 A pixik azzal vannak elfoglalva, hogy a jelenlegi darabod biomját a 9. §-ra{0}§7-re módosítsák, "
+"Legyél türelmes."
+msgstr ""
+
+#, java-format
+msgstr ""
+"§7 A pikszisek azon vannak, hogy átállítsák a szigeted életrajzát §9{0}§7-re, légy "
+"beteg."
+msgstr ""
+
+#, java-format
+msgstr "§eInvalid biome ({0}) megadva!"
+msgstr ""
+
+#, java-format
+msgstr "§aA sziget életrajzát a következőre módosította: {0}"
+msgstr ""
+
+#, java-format
+msgstr ""{0} a sziget életrajzát a következőre módosította: {1}"
+msgstr ""
+
+#, java-format
+msgstr "§aKörülötted lévő {0} blokkot módosította {1} életrajzra"
+msgstr ""
+
+#, java-format
+msgstr "{0} létrehozott egy területet {1} életközösséggel"
+msgstr ""
+
+msgstr "sziget létrehozása"
+msgstr ""
+
+msgstr "a lejátszó felmentése a létrehozás-hűtés alól"
+msgstr ""
+
+msgstr ""
+"§4 Sziget megtalálva!§e Már van szigeted. Ha friss szigetre vágysz, "
+"type§b /restart§e, hogy szerezzen egyet"
+msgstr ""
+
+msgstr ""
+"§4Sziget megtalálva!§e Már tagja vagy egy szigetnek. A saját létrehozásához
+"első§b /a szabadság"
+msgstr ""
+
+#, java-format
+msgstr "§eLétrehozhat egy új szigetet {0,szám,#} másodperc alatt."
+msgstr ""
+
+msgstr "teleportál a sziget otthonába"
+msgstr ""
+
+msgstr ""
+"§cA szigeted generálása folyamatban van, nem tudsz hazateleportálni"
+"épp most."
+msgstr ""
+
+msgstr "ellenőrizze a saját vagy mások szigetinformációit"
+msgstr ""
+
+msgstr "lehetővé teszi a felhasználónak, hogy lássa mások sziget adatait"
+msgstr ""
+
+msgstr "" "§4A szigeti szint le van tiltva, forduljon a rendszergazdához."
+msgstr ""
+
+msgstr "§4 Tartsd a lovaidat! §eTürelmesnek kell lenned..."
+msgstr ""
+
+msgstr "§eA parancs használatához a szigeten kell lennie."
+msgstr ""
+
+msgstr "§4Nincs szigeted!"
+msgstr ""
+
+msgstr "§4Nem fér hozzá ehhez a parancshoz!"
+msgstr ""
+
+msgstr "§4Az a játékos érvénytelen, vagy nincs szigete!"
+msgstr ""
+
+#, java-format
+msgstr "
+msgstr ""
+
+msgstr "Score Count Block"
+msgstr ""
+
+#, java-format
+msgstr "{0,szám,00.00} {1,szám,#} {2}"
+msgstr ""
+
+#, java-format
+msgstr "A §aIsland szintje: {0,number,###.##}"
+msgstr ""
+
+msgstr "hívj meg egy játékost a szigetedre"
+msgstr ""
+
+msgid ""
+"§eUse§f /island invite <playername>§e-t, hogy meghívjon egy játékost a szigetére."
+msgstr ""
+
+msgstr "§4Csak a sziget tulajdonosa hívhat meg!"
+msgstr ""
+
+#, java-format
+msgstr "§aMeghívhat még {0} játékost."
+msgstr ""
+
+msgstr "§4Nem hívhatsz meg több játékost."
+msgstr ""
+
+msgstr "§4Nincs engedélye mások meghívására erre a szigetre!"
+msgstr ""
+
+msgstr "§4A lejátszó offline állapotban van, vagy nem létezik."
+msgstr ""
+
+msgstr "§4Nem hívhatod meg magad!"
+msgstr ""
+
+msgstr "§4Az a játékos a szigeted vezetője!"
+msgstr ""
+
+msgstr "Egy tag eltávolítása a szigetről."
+msgstr ""
+
+msgstr "§4Nincs engedélyed másokat kirúgni erről a szigetről!"
+msgstr ""
+
+msgstr "§4Nem távolíthatod el a vezetőt a Szigetről!"
+msgstr ""
+
+msgstr "§4Hagyd abba, hogy rúgd magad!"
+msgstr ""
+
+#, java-format
+msgstr ""§4{0} eltávolított téged a szigetéről!"
+msgstr ""
+
+#, java-format
+msgstr "" "§4{0} eltávolítva a szigetről."
+msgstr ""
+
+#, java-format
+msgstr ""4.§{0} megpróbált kirúgni a szigetükről!"
+msgstr ""
+
+#, java-format
+msgstr "" "§4{0} mentes a kirúgás alól."
+msgstr ""
+
+#, java-format
+msgstr ""§4{0} kirúgott a szigetükről!"
+msgstr ""
+
+#, java-format
+msgstr "" "§4{0} kirúgták a szigetről."
+msgstr ""
+
+msgstr "§4Az a játékos nem tagja a szigetcsoportodnak, és nem a szigeteden van!"
+msgstr ""
+
+msgstr "hagyd el a partit"
+msgstr ""
+
+msgstr ""
+"4.§ Nem hagyhatod el a szigetedet, ha te vagy az egyetlen személy. Próbáld meg a /island "
+"restart, ha újat akarsz!"
+msgstr ""
+
+msgstr "§eÖn a sziget tulajdonosa, használja helyette a /island remove <player> parancsot."
+msgstr ""
+
+msgstr "§eElhagytad a szigetet és visszatértél a játékos spawnhoz."
+msgstr ""
+
+#, java-format
+msgstr "§4{0} elhagyta a szigetet!"
+msgstr ""
+
+msgstr "§4A skyblock világban kell lennie ahhoz, hogy elhagyja a buliját!"
+msgstr ""
+
+msgstr "ellenőrizze a saját vagy mások szigetszintjét"
+msgstr ""
+
+msgstr "lehetővé teszi a felhasználónak, hogy lekérdezzen más szintekről"
+msgstr ""
+
+#, java-format
+msgstr "§eInformáció {0} szigetéről:"
+msgstr ""
+
+#, java-format
+msgstr "§9. rangja {0}"
+msgstr ""
+
+#, java-format
+msgstr "§4 Nem található {0} rangja"
+msgstr ""
+
+msgstr "" "zárja a szigetet a párton kívüli tagok előtt."
+msgstr ""
+
+msgstr "§4Nincs engedélye a sziget lezárására!"
+msgstr ""
+
+msgstr "§4Nincs hozzáférése ehhez a parancshoz!"
+msgstr ""
+
+msgstr "§4Nincs engedélye a sziget feloldásához!"
+msgstr ""
+
+msgstr "napló megjelenítése"
+msgstr ""
+
+msgstr "a vezetés átadása egy másik tagnak"
+msgstr ""
+
+msgstr "§4A tulajdonjogot csak párttagokra ruházhatja át!"
+msgstr ""
+
+#, java-format
+msgstr "{0}§e már a szigeted vezetője!"
+msgstr ""
+
+msgstr "§4Csak a vezető adhatja át a vezetést!"
+msgstr ""
+
+#, java-format
+msgstr "{0} megpróbálta elfoglalni a szigetet!"
+msgstr ""
+
+msgstr "a szigetek határainak megjelenítése"
+msgstr ""
+
+msgstr "párti információk megjelenítése"
+msgstr ""
+
+msgstr "információkat mutat meg a buliról"
+msgstr ""
+
+msgstr "függőben lévő meghívók megjelenítése"
+msgstr ""
+
+msgstr "§eNincs függőben lévő meghívó"
+msgstr ""
+
+msgstr "meghívás visszavonása"
+msgstr ""
+
+msgstr "§4Nincs jogosultsága a játékosok meghívásának visszavonására."
+msgstr ""
+
+msgstr "§4Ezt a parancsot csak egy játékos hajthatja végre"
+msgstr ""
+
+msgstr "§4Nincs sziget. §eA §b/is create§e használatával szerezhet egyet"
+msgstr ""
+
+msgstr "megváltoztatja a tagsziget engedélyeit"
+msgstr ""
+
+#, java-format
+msgstr "§ePermissions for §9{0}§e:"
+msgstr ""
+
+msgstr "§aON"
+msgstr ""
+
+msgstr "§cOFF"
+msgstr ""
+
+#, java-format
+msgstr "§7 - §6{0}§7 : {1}"
+msgstr ""
+
+#, java-format
+msgstr "§cÉrvénytelen engedély {0}. A következők valamelyikének kell lennie: {1}"
+msgstr ""
+
+#, java-format
+msgstr "§eToggled engedély §9{0}§e for §9{1}§e to {2}"
+msgstr ""
+
+#, java-format
+msgstr "§eNem lehet átkapcsolni a §9{0}§e engedélyt a §9-hez{1}"
+msgstr ""
+
+msgstr "" "törölje a szigetét, és indítson újat."
+msgstr ""
+
+msgstr "a lejátszó felmentése az újraindítás-hűtés alól"
+msgstr ""
+
+msgstr ""
+"§4 Csak a tulajdonos indíthatja újra ezt a szigetet. Hagyja el ezt a szigetet, hogy "
+"indítsd el a sajátodat (/island leave)."
+msgstr ""
+
+msgstr ""
+"§eEl kell távolítanod az összes játékost a szigetedről, mielőtt újraindíthatod (/"
+"island kick <player>). Tekintse meg a szigetedhez jelenleg tartozó játékosok listáját "
+"használva /island party."
+msgstr ""
+
+#, java-format
+msgstr "§cA szigetet {0} másodpercen belül újraindíthatja."
+msgstr ""
+
+msgstr "§cA szigete generálás alatt van, most nem indíthatja újra."
+msgstr ""
+
+msgstr "§eMEGJEGYZÉS: Az egész szigetet és minden holmiját VISSZAÁLLÍTJA!"
+msgstr ""
+
+msgstr "a sziget-otthon beállítása"
+msgstr ""
+
+msgstr "§4Közelebb kell lenned a szigetedhez, hogy otthonra állíthasd a skyblock-ot!"
+msgstr ""
+
+msgstr "§4A jelenlegi tartózkodási helye nem biztonságos otthoni hely."
+msgstr ""
+
+msgstr "" "§aA skyblock otthona a jelenlegi helyére lett állítva."
+msgstr ""
+
+msgstr "állítsd be a szigeted vetemedési helyét"
+msgstr ""
+
+msgstr "§cNincs engedélyed a szigeted töréspontjának beállítására!"
+msgstr ""
+
+msgstr "§cA saját szigetén kell lennie a vetemítés beállításához!"
+msgstr ""
+
+#, java-format
+msgstr "" "§b{0}§d megváltoztatta a sziget vetemedés helyét."
+msgstr ""
+
+msgstr "a skyblock spawnbe teleportál"
+msgstr ""
+
+msgstr "" "engedélyezze/letiltja a szigetre való vetemítést."
+msgstr ""
+
+msgstr "
+msgstr ""
+
+#, java-format
+msgstr "" "§b{0}§d aktiválta a szigetelvonást."
+msgstr ""
+
+#, java-format
+msgstr "" "§b{0}§d deaktiválta a szigetelvonást."
+msgstr ""
+
+msgstr "§cNincs engedélyed a szigeted vetemítésének engedélyezésére/letiltására!"
+msgstr ""
+
+msgstr "a szigetek 10 legjobbjának megjelenítése"
+msgstr ""
+
+msgstr "" "lehetővé teszi a felhasználónak, hogy minden módon előállítsa az első tízet (nincs gyorsítótár)"
+msgstr ""
+
+msgstr "Bízz/nem bízol meg egy játékosban, aki segít a szigeteden."
+msgstr ""
+
+msgstr "§eA következő játékosok megbízhatóak a szigeten:"
+msgstr ""
+
+msgstr "§eA következő vezetők bíznak benned:"
+msgstr ""
+
+msgstr "§eHa megbízni/nem bízik a szigetén, használja a /island trust <player> parancsot"
+msgstr ""
+
+msgstr "§4A tagok már megbízhatóak!"
+msgstr ""
+
+#, java-format
+msgstr "§4Ismeretlen játékos {0}"
+msgstr ""
+
+#, java-format
+msgstr "" "§eÖn most megbízható a §4{0} §eislandjén."
+msgstr ""
+
+#, java-format
+msgstr "§a{0} megbízható {1} a szigeten"
+msgstr ""
+
+#, java-format
+msgstr "" "§eÖnben már nem bíznak meg §4{0} §eislandjén."
+msgstr ""
+
+#, java-format
+msgstr ""§c{0} megvonta a bizalmat {1} iránt a szigeten"
+msgstr ""
+
+msgstr "egy másik játékos szigetére vetemedni"
+msgstr ""
+
+msgstr "§aA bejövő warp aktív, a játékosok a szigetedre vetemedhetnek."
+msgstr ""
+
+msgstr "§4A bejövő warp inaktív, a játékosok nem térhetnek át a szigetedre."
+msgstr ""
+
+msgstr "§fBejövő vetemítés beállítása az aktuális helyére az §e/island setwarp segítségével"
+msgstr ""
+
+msgstr "
+msgstr ""
+
+msgstr "§4Nincs engedélye vetemedés létrehozására a szigetén!"
+msgstr ""
+
+msgstr "§fWarp másik szigetre az §e/island warp <player> használatával"
+msgstr ""
+
+msgstr "§4Nincs engedélye más szigetekre vetemedni!"
+msgstr ""
+
+msgstr ""
+"§cA szigeted generálás alatt áll, nem vetemedhetsz másra"
+"Játékos szigetek most."
+msgstr ""
+
+msgstr "§4Az a játékos nem létezik!"
+msgstr ""
+
+msgstr "§4Ennek a játékosnak nincs aktív warpja."
+msgstr ""
+
+msgstr ""
+"§cA játékossziget létrehozása folyamatban van, nem vetemedhet hozzá"
+"épp most."
+msgstr ""
+
+#, java-format
+msgstr "§cFIGYELMEZTETÉS: §9{0}§e a szigetedre vetemedik!"
+msgstr ""
+
+msgstr "§4Az a játékos megtiltotta neked, hogy a szigetükre vetemedj."
+msgstr ""
+
+msgstr "általános sziget parancs"
+msgstr ""
+
+msgstr "lehetővé teszi a felhasználó számára a lehűlés megkerülését"
+msgstr ""
+
+msgstr "lehetővé teszi a felhasználó számára a látogatóvédelem megkerülését"
+msgstr ""
+
+msgstr "lehetővé teszi a felhasználónak a teleport késleltetés megkerülését"
+msgstr ""
+
+msgstr "lehetővé teszi a felhasználónak az [usb] jelek használatát"
+msgstr ""
+
+msgstr "lehetővé teszi a felhasználónak [usb] jelek elhelyezését"
+msgstr ""
+
+msgstr "§eNem használhatod másik sziget portáljait!"
+msgstr ""
+
+msgstr "" "§eVillager-trading nem engedélyezett."
+msgstr ""
+
+msgstr "Az §eTrading nem engedélyezett más szigeteken. Tedd meg spawnben."
+msgstr ""
+
+msgstr "§eRiding csak a saját szigetén engedélyezett!"
+msgstr ""
+
+msgstr "§e Látogatóként nem törhet össze járműveket!"
+msgstr ""
+
+msgstr "§cWither Despawned!§e Túl messze vándorolt ​​a szigetedtől."
+msgstr ""
+
+#, java-format
+msgstr "{0} elsorvad"
+msgstr ""
+
+msgstr "" "§eVisitors nem dobhat el elemeket!"
+msgstr ""
+
+#, java-format
+msgstr "Tulajdonos: {0}"
+msgstr ""
+
+msgstr "Nem szedheti fel más játékosok zsákmányát, ha Ön látogató!"
+msgstr ""
+
+msgstr "§4Az obszidiánt csak 10 másodpercenként lehet átalakítani"
+msgstr ""
+
+msgstr "§eAz obszidián lávává alakítása. Legyen óvatos!"
+msgstr ""
+
+msgstr "§eA leltárban kell lennie még egy üres helynek!"
+msgstr ""
+
+msgstr "§4 Rossz ötlet lecserélni a lávát!"
+msgstr ""
+
+msgstr "§eNem bánthatod a sziget tagjait."
+msgstr ""
+
+msgstr "§4Az a játékos megtiltotta neked, hogy a szigetére teleportálj."
+msgstr ""
+
+msgstr "
+msgstr ""
+
+#, java-format
+msgstr ""
+"A 4{0}. § korlátozott. §eA sziget átvizsgálása, hogy megtudja, szabad-e elhelyezni"
+"tovább, légy türelmes"
+msgstr ""
+
+msgstr "§e... A keresés befejeződött, próbálkozhat újra"
+msgstr ""
+
+#, java-format
+msgstr ""
+"§4 Elérted a(z) {0} korlátot!§e Nem lehet több ilyen típusú készüléked
+"sziget!§9 Max: {1,number}"
+msgstr ""
+
+msgstr "§eCsak a saját szigetén használhat spawn-tojásokat."
+msgstr ""
+
+msgstr "§cElérted a szigeted ívási határát."
+msgstr ""
+
+msgstr "§cBanned:§e Ki vagy tiltva erről a szigetről."
+msgstr ""
+
+msgstr "§cLocked:§e Ez a sziget le van zárva! Belépés tilos."
+msgstr ""
+
+#, java-format
+msgstr "§eVárakozásunkra §c{0,number,###}%"
+msgstr ""
+
+#, java-format
+msgstr "§9Sziget létrehozása...§e{0,number,###}%"
+msgstr ""
+
+#, java-format
+msgstr "§9{0}§7 időtúllépés"
+msgstr ""
+
+#, java-format
+msgstr ""
+"§eDoing §9{0}§e a §cRISKY§e. Ismételje meg a parancsot §a{1}§e másodpercen belül, amíg "
+"elfogad!"
+msgstr ""
+
+msgstr "N/A"
+msgstr ""
+
+msgstr "4.§** Ön egy védett - de elhagyott - szigetterületre lép be."
+msgstr ""
+
+#, java-format
+msgstr "§d** Ön belép §b{0} §dislandjába."
+msgstr ""
+
+msgstr "4.§** Ön egy elhagyott szigetet hagy el."
+msgstr ""
+
+#, java-format
+msgstr "§d** Ön elhagyja §b{0} §dislandjét."
+msgstr ""
+
+msgstr "§eA szigeted most le van zárva. Csak a párttagjaid léphetnek be."
+msgstr ""
+
+msgstr "§4Te kell a párt vezetője, hogy bezárd a szigetedet!"
+msgstr ""
+
+msgstr ""
+"§eA szigeted fel van zárva, és bárki beléphet, de csak te és a te "
+"A párt tagjai blokkokat építhetnek vagy távolíthatnak el."
+msgstr ""
+
+msgstr "§4A sziget feloldásához a párt vezetőjének kell lennie!"
+msgstr ""
+
+#, java formátum
+msgstr "§7PlayerDB: {0} játékos szűrése az uuid2name.yml fájlból"
+msgstr ""
+
+#, java formátum
+msgstr "7. § - {0,number,##}% ({1}/{2}) ~ {3}"
+msgstr ""
+
+#, java formátum
+msgstr "§7PlayerDB: Szűrt {0} nevek"
+msgstr ""
+
+#, java formátum
+msgstr ""
+"§7 - MojangAPI:{4}: {0,number,##}% ({1}/{2}, sikertelen:{3} ~ {5,number,##}%), "
+"{6}"
+msgstr ""
+
+#, java formátum
+msgstr "§7MojangAPI: {0} játékost próbálok letölteni Mojangból"
+msgstr ""
+
+msgstr "SIKER"
+msgstr ""
+
+msgstr "SIKERTELEN"
+msgstr ""
+
+#, java formátum
+msgstr "7. § - MojangAPI:§aCOMPLETED: {0}"
+msgstr ""
+
+#, java formátum
+msgstr "7. § - MojangAPI:§cERROR: {0}"
+msgstr ""
+
+#, java formátum
+msgstr ""
+"§eProgress: {0,number,##}% ({1}/{2} - siker:{3}, sikertelen:{4}, kihagyva:{5}) "
+"~ {6}"
+msgstr ""
+
+#, java formátum
+msgstr "§4 Nem található §e{0}§4 nevű importőr"
+msgstr ""
+
+#, java formátum
+msgstr "§eConverted {0}/{1} fájl itt: {2}"
+msgstr ""
+
+msgstr "A sziget létrejött."
+msgstr ""
+
+#, java formátum
+msgstr "§b{0}§d lezárta a szigetet."
+msgstr ""
+
+msgstr "§4Mióta a szigete le van zárva, a bejövő vetemedés deaktiválva lett."
+msgstr ""
+
+#, java formátum
+msgstr "" "§b{0}§d feloldotta a sziget zárolását."
+msgstr ""
+
+#, java formátum
+msgstr "§cSKY §f> §7 {0}"
+msgstr ""
+
+#, java formátum
+msgstr "" "§b{0}§d eltávolítva a szigetcsoportból."
+msgstr ""
+
+#, java formátum
+msgstr "§9{1} §7- {0}"
+msgstr ""
+
+msgstr "§9 Sziget létrehozása az Ön helyén"
+msgstr ""
+
+#, java formátum
+msgstr "§9 Sziget létrehozása §7{0}§9 rólad"
+msgstr ""
+
+msgstr ""
+"§cA sziget, amelyiknek ez a része az alföldről, törlésre kerül! Küldés: "
+"ívik."
+msgstr ""
+
+msgstr "§cA sziget, amelyen tartózkodik, törlésre kerül! " "Spawnre küldünk."
+msgstr ""
+
+#, java formátum
+msgstr "§eWALL OF FAME ({1}/{0}. oldal):"
+msgstr ""
+
+#, java formátum
+msgstr "" "§4 A legjobb tíz lista üres! Csak a(z) {0} szint feletti szigetek számítanak."
+msgstr ""
+
+msgstr "§a#%2d §7(%5.2f): §e%s §7%s"
+msgstr ""
+
+msgstr "Kattintson a szigetre való vetemítéshez!"
+msgstr ""
+
+#, java formátum
+msgstr "§eAz Ön rangja: §f{0}"
+msgstr ""
+
+msgstr "UNKNOWN"
+msgstr ""
+
+msgstr "ÁLLAT"
+msgstr ""
+
+msgstr "SZÖRNYET"
+msgstr ""
+
+msgstr "VALAGER"
+msgstr ""
+
+msgstr "GOLEM"
+msgstr ""
+
+#, java formátum
+msgstr "§c{0}"
+msgstr ""
+
+#, java formátum
+msgstr "§7{0}: §a{1}§7 (max. {2})"
+msgstr ""
+
+#, java formátum
+msgstr "Nem található a séma {0}, lépjen kapcsolatba egy szerver-adminisztrátorral"
+msgstr ""
+
+msgstr "§aGratulálunk! §eA szigeted megjelent."
+msgstr ""
+
+msgstr "§cMegjegyzés:§e Lehet, hogy az építkezés még mindig folyamatban van."
+msgstr ""
+
+msgstr "A §9/is h§r vagy a §9/is§r menü használatával lépjen oda."
+msgstr ""
+
+#, java formátum
+msgstr "" "§cWatchdog!§9 Nem sikerült megtalálni a ládát {0}-on belül, kimentve."
+msgstr ""
+
+#, java formátum
+msgstr "§7 {0}. oldal"
+msgstr ""
+
+#, java formátum
+msgstr "§c{0,number,#}"
+msgstr ""
+
+#, java formátum
+msgstr "§a+{0,number,#}"
+msgstr ""
+
+#, java formátum
+msgstr "§a{0,number,#}"
+msgstr ""
+
+#, java formátum
+msgstr "&aLeft:&7 Növekedés a következővel: {0}"
+msgstr ""
+
+#, java formátum
+msgstr "&cRight-Click:&7 Állítsa be: {0}"
+msgstr ""
+
+msgstr "Vissza"
+msgstr ""
+
+msgstr "Config:"
+msgstr ""
+
+msgstr "§9Integer Editor"
+msgstr ""
+
+msgstr "" "§eConfiguration mentve és újratöltve."
+msgstr ""
+
+msgstr "§cError! §9Nem sikerült menteni a konfigurációs fájlt!"
+msgstr ""
+
+msgstr "§3Első oldal"
+msgstr ""
+
+msgstr "§3Utolsó oldal"
+msgstr ""
+
+msgstr "§cConfig mentése és újratöltése"
+msgstr ""
+
+msgstr ""
+"§7 Menti a beállításokat ide:\n"
+"§7 fájl és újratöltés.\n"
+"§cMegjegyzés: §7 Használja óvatosan!"
+msgstr ""
+
+msgstr "7. § (csak olvasható)"
+msgstr ""
+
+msgstr "igaz"
+msgstr ""
+
+msgstr "hamis"
+msgstr ""
+
+msgstr "Kihívás menü"
+msgstr ""
+
+msgstr "Change Biome"
+msgstr ""
+
+msgstr "változtassa meg a sziget életközösségét."
+msgstr ""
+
+msgstr "Szigetzár váltása"
+msgstr ""
+
+msgstr "átkapcsolja a sziget zárját."
+msgstr ""
+
+msgstr "Beállítja a sziget warpot"
+msgstr ""
+
+msgstr "beállítja a sziget vetemedését."
+msgstr ""
+
+msgstr ""
+"állítsd be a sziget vetületét,\n"
+"amely lehetővé teszi a nem csoportosulást\n"
+"tagok, akikhez teleportálni kell\n"
+"a sziget."
+msgstr ""
+
+msgstr "Sziget vetemítés átváltása"
+msgstr ""
+
+msgstr "átkapcsolja a sziget vetemítését."
+msgstr ""
+
+msgstr ""
+"átkapcsolja a sziget vetemedését,\n"
+"lehetővé teszi, hogy megfordítsák\n"
+"bármikor be vagy ki, de\n"
+"nem állítja be a helyet."
+msgstr ""
+
+msgstr "Játékosok meghívása"
+msgstr ""
+
+msgstr "Mások meghívása a szigetre."
+msgstr ""
+
+msgstr ""
+"meghívás\n"
+"más játékosok a szigetre, ha\n"
+"van még elég hely\n"
+"tagok"
+msgstr ""
+
+msgstr "Kick Players"
+msgstr ""
+
+msgstr "rúgj ki másokat a szigetről."
+msgstr ""
+
+msgstr ""
+"rúgás\n"
+"más játékosok a szigetről,\n"
+"de nem tudnak rúgni\n"
+"a sziget vezetője".
+msgstr ""
+
+msgstr "Óceán"
+msgstr ""
+
+msgstr ""
+"Az óceán élővilága az alapvető\n"
+"kezdő biom minden szigetre.\n"
+"A passzív csőcselék olyan, mint az állatok\n"
+"nem spawn. Az ellenséges csőcselék\n"
+"Spawn rendesen."
+msgstr ""
+
+msgstr "Erdő"
+msgstr ""
+
+msgstr ""
+"Az erdei életközösség lehetővé teszi\n"
+"az ön szigete passzív lesz.\n"
+"a csőcselék, mint az állatok (beleértve\n"
+"farkasok). Az ellenséges csőcselék\n"
+"Spawn rendesen."
+msgstr ""
+
+msgstr "Sivatag"
+msgstr ""
+
+msgstr ""
+"A sivatagi bióma teszi azzá\n"
+"hogy nincs eső vagy hó\n"
+"az ön szigetén. Passzív csőcselék\n"
+"nem fog spawn. Az ellenséges csőcselék\n"
+"Spawn rendesen."
+msgstr ""
+
+msgstr "Dzsungel"
+msgstr ""
+
+msgstr ""
+"A dzsungel életrajza fényes\n"
+"és színes. Passzív csőcselék\n"
+"(beleértve az ocelotokat) lesz\n"
+"spawn. Az ellenséges csőcselék\n"
+"Spawn rendesen."
+msgstr ""
+
+msgstr "Mocsárvidék"
+msgstr ""
+
+msgstr ""
+"A mocsári élet sötét\n"
+"és unalmas. Passzív csőcselék\n"
+"normálisan fog spawni és\n"
+"a nyálkának kicsi az esélye\n"
+"éjszaka ívni, attól függően\n"
+"a holdfázisban".
+msgstr ""
+
+msgstr "Taiga"
+msgstr ""
+
+msgstr ""
+"A tajga biómban van hó\n"
+"eső helyett. Passzív\n"
+"a csőcselék normálisan fog megjelenni\n"
+"(beleértve a farkasokat) és\n"
+"ellenséges csőcselék fog megjelenni."
+msgstr ""
+
+msgstr "Gomba"
+msgstr ""
+
+msgstr ""
+"A gomba életközössége\n"
+"világos és színes.\n"
+"Mooshrooms az egyetlen\n"
+"maffia csőcselék.\n"
+"Nincs más passzív vagy\n"
+"ellenséges csőcselék fog megjelenni."
+msgstr ""
+
+msgstr "Pokol"
+msgstr ""
+
+msgstr ""
+"A pokol életrajza úgy néz ki\n"
+"sötét és halott. Néhány\n"
+"csőcselék az alsó akaratból\n"
+"spawn in this biome\n"
+"(kivéve a ghastokat és\n"
+"lángok)."
+msgstr ""
+
+msgstr "Ég"
+msgstr ""
+
+msgstr ""
+"Az égi életközösség megadja\n"
+"A sziget egy különleges sötét égbolt.\n"
+"Csak endermen fognak szülni\n"
+"ebben az életközösségben."
+msgstr ""
+
+msgstr "Síkságok"
+msgstr ""
+
+msgstr ""
+"A síkság élővilágában esik az eső\n"
+"hó helyett. Passzív\n"
+"a csőcselék normálisan fog megjelenni\n"
+"(beleértve a lovakat) és\n"
+"ellenséges csőcselék fog megjelenni."
+msgstr ""
+
+msgstr "Extreme Hills"
+msgstr ""
+
+msgstr ""
+"Az extrém dombok életközössége.\n"
+"A passzív csőcselék szaporodni fognak \n"
+"normálisan és ellenséges\n"
+"a csőcselék szaporodik."
+msgstr ""
+
+msgstr "Virágerdő"
+msgstr ""
+
+msgstr ""
+"A virágerdő életközössége.\n"
+"A passzív csőcselék szaporodni fognak \n"
+"normálisan és ellenséges\n"
+"a csőcselék szaporodik."
+msgstr ""
+
+msgstr "Mély óceán"
+msgstr ""
+
+msgstr ""
+"A mélytengeri életközösség fejlett\n"
+"biome. A passzív csőcselék, mint az állatok\n"
+"nem spawn. Ellenséges csőcselék \n"
+"(beleértve az őrzőket is) lesz\n"
+"Spawn rendesen."
+msgstr ""
+
+msgstr "Jégsíkságok"
+msgstr ""
+
+msgstr ""
+"A jégsíkság életközössége fejlett biom.\n"
+"A csőcselék természetes úton jön létre.\n"
+"beleértve a jegesmedvéket"
+msgstr ""
+
+msgstr "Engedélyek"
+msgstr ""
+
+#, java formátum
+msgstr "{0} <{1}>"
+msgstr ""
+
+msgstr "§9 Játékos engedélyek"
+msgstr ""
+
+msgstr ""
+"§eKattintson ide a visszatéréshez\n"
+"§a szigetcsoportod információi."
+msgstr ""
+
+#, java formátum
+msgstr "§e{0}''§9s engedélyek"
+msgstr ""
+
+msgstr ""
+"§eMegtekintéshez vigye az egérmutatót egy ikon fölé\n"
+"§ea engedély. Módosítsa a\n"
+"§epermission kattintva."
+msgstr ""
+
+msgstr "§fEz a lejátszó §acan"
+msgstr ""
+
+msgstr "Kattintson ide az engedély eltávolításához."
+msgstr ""
+
+msgstr "§fEz a lejátszó §ccannot"
+msgstr ""
+
+msgstr "Kattintson ide az engedély megadásához."
+msgstr ""
+
+msgstr "Sziget csoport tagjai"
+msgstr ""
+
+#, java formátum
+msgstr "Csoporttagok: §2{0}§7/§e{1}"
+msgstr ""
+
+msgstr "§aTovábbi játékosok meghívhatók erre a szigetre."
+msgstr ""
+
+msgstr "§cEz a sziget megtelt."
+msgstr ""
+
+msgstr ""
+"§eVigye az egérmutatót a játékos ikonja fölé, hogy\n"
+"§tekintse meg az engedélyeiket. A\n"
+"§eleader módosíthatja az engedélyeket\n"
+"§egy játékos ikonjára kattintva."
+msgstr ""
+
+#, java formátum
+msgstr "§e{0}'s§9 engedélyek"
+msgstr ""
+
+msgstr "Vezető"
+msgstr ""
+
+msgstr "Tag"
+msgstr ""
+
+#, java formátum
+msgstr "Can {0}"
+msgstr ""
+
+#, java formátum
+msgstr "Nem lehet {0}"
+msgstr ""
+
+msgstr "§e<Kattintson a lejátszó engedélyeinek módosításához>"
+msgstr ""
+
+msgstr "Szigetnapló"
+msgstr ""
+
+msgstr ""
+"§eKattintson ide a visszatéréshez\n"
+"§eta fő sziget képernyője."
+msgstr ""
+
+msgstr "§e§lIsland Log"
+msgstr ""
+
+msgstr "Island Biome"
+msgstr ""
+
+#, java formátum
+msgstr "Biome: {0}"
+msgstr ""
+
+msgstr "§2§lEz az Ön jelenlegi életrajza."
+msgstr ""
+
+msgstr "§e§lKattintson ide, ha erre a biomra szeretne váltani."
+msgstr ""
+
+msgstr "Nem használhatja ezt a biomot."
+msgstr ""
+
+msgstr "§2 darab"
+msgstr ""
+
+msgstr "§hívás"
+msgstr ""
+
+#, java formátum
+msgstr "§e{0}"
+msgstr ""
+
+msgstr "§c-"
+msgstr ""
+
+msgstr "A biome-változás sugarának csökkentése"
+msgstr ""
+
+#, java formátum
+msgstr "Jelenlegi sugár: {0}"
+msgstr ""
+
+msgstr "§2+"
+msgstr ""
+
+msgstr "Növelje a biome-változás sugarát"
+msgstr ""
+
+msgstr "§7 Aktuális oldal"
+msgstr ""
+
+msgstr "§7Első oldal"
+msgstr ""
+
+msgstr "§7Utolsó oldal"
+msgstr ""
+
+msgstr "Sziget menü létrehozása"
+msgstr ""
+
+msgstr "§a§lSziget indítása"
+msgstr ""
+
+msgstr ""
+"Start your skyblock travel\n"
+"saját sziget létrehozásával.\n"
+"Teljes kihívások a keresethez\n"
+"elemek és skybucks segítség\n"
+"bővítse ki az égboltot. Megteheti\n"
+"Mások meghívása, hogy csatlakozzanak\n"
+"a szigetbirodalom felépítése!\n"
+"§e§lKattintson ide a kezdéshez!"
+msgstr ""
+
+msgstr "§aKattintson a létrehozáshoz!"
+msgstr ""
+
+#, java formátum
+msgstr ""
+"§cNincs hozzáférés!\n"
+"7. § ({0})"
+msgstr ""
+
+msgstr "§a§lVissza a Spawnra"
+msgstr ""
+
+msgstr "Teleportáljon a spawn területre."
+msgstr ""
+
+msgstr "§a§lCsatlakozás egy szigethez"
+msgstr ""
+
+msgstr ""
+"Szeretnék csatlakozni egy másik játékoshoz\n"
+"Sziget indulás helyett\n"
+"a sajátod? Ha egy másik játékos\n"
+"meghív a szigetükre\n"
+"kattinthat ide vagy használhatja\n"
+"§e/sziget elfogadja§f, hogy csatlakozzon hozzájuk.\n"
+"§e§lKattintson ide a meghívás elfogadásához!\n"
+"§e§l (először meg kell hívni)"
+msgstr ""
+
+msgstr "Sziget menü"
+msgstr ""
+
+msgstr "§a§lOtthon vissza állítása"
+msgstr ""
+
+msgstr ""
+"Térj vissza a szigeted otthonába\n"
+"pont. Megváltoztathatja otthonát\n"
+"mutasson bármely helyre a\n"
+"sziget a §b/sziget sethome használatával\n"
+"§e§lKattintson ide a hazatéréshez."
+msgstr ""
+
+msgstr "§a§lKihívások"
+msgstr ""
+
+msgstr ""
+"Nézze meg a 9. §-os kihívások listáját, amelyek\n"
+"a szigetén teljesítheti\n"
+"skybucks, tárgyak, jutalmak keresésére,\n"
+"és címek."
+msgstr ""
+
+msgstr "§e§lKattintson ide a kihívások megtekintéséhez."
+msgstr ""
+
+msgstr "§4§lKihívások letiltva."
+msgstr ""
+
+msgstr "§a§lSziget szint"
+msgstr ""
+
+#, java formátum
+msgstr "§eJelenlegi szint: §a{0,szám,##.#}"
+msgstr ""
+
+msgstr ""
+"Nyerj szigetszinteket bővítéssel\n"
+"a skyblokk és a befejezés\n"
+"bizonyos kihívások. Ritkább blokkok\n"
+"többet fog hozzáadni a szintedhez.\n"
+"§e§lKattintson ide a frissítéshez.\n"
+"§e§l (a szigeten kell lennie)"
+msgstr ""
+
+msgstr "Sziget csoport"
+msgstr ""
+
+#, java formátum
+msgstr "§eMembers: §2{0}/{1}"
+msgstr ""
+
+msgstr ""
+"Nézd meg a szigeted tagjait\n"
+"csoport és engedélyeik. Ha\n"
+"te vagy a sziget vezetője, te\n"
+"módosíthatja a tagok jogosultságait.\n"
+"§e§lKattintson ide a megtekintéséhez vagy módosításához."
+msgstr ""
+
+msgstr "Change Island Biome"
+msgstr ""
+
+#, java formátum
+msgstr "§eCurrent Biome: §b{0}"
+msgstr ""
+
+msgstr ""
+"A sziget életközössége befolyásolja a dolgokat\n"
+"mint a fű színe és az ívás\n"
+"állatok és szörnyek egyaránt."
+msgstr ""
+
+msgstr "§e§lKattintson ide a biomák megváltoztatásához."
+msgstr ""
+
+msgstr "§c§lNem módosíthatod a biomot."
+msgstr ""
+
+msgstr "§a§lIsland Lock"
+msgstr ""
+
+msgstr ""
+"§eLock állapota: §aAktív\n"
+"§fA szigeted jelenleg §órában van.\n"
+"§fA csoporton kívüli játékosok\n"
+"§vitel nem tud belépni a szigetére."
+msgstr ""
+
+msgstr "§e§lKattintson ide a sziget feloldásához."
+msgstr ""
+
+msgstr "§c§lNem tudja megváltoztatni a zárat."
+msgstr ""
+
+msgstr ""
+"§eLock állapota: §8Inaktív\n"
+"§fA szigeted jelenleg §feloldott.\n"
+"§fMinden játékos megadhatja\n"
+"§fisland, de csak te és a csoportod\n"
+"A §ftagok építhetnek ott."
+msgstr ""
+
+msgstr "§e§lKattintson ide a sziget zárolásához."
+msgstr ""
+
+msgstr "§a§lIsland Warp"
+msgstr ""
+
+msgstr ""
+"§eWarp állapota: §aAktív\n"
+"§fMás játékosok elvetemülhetnek a tiédhez\n"
+"§fisland bármikor a pontig\n"
+"§fyou beállítva az §d/island setwarp használatával."
+msgstr ""
+
+msgstr "§e§lKattintson ide a kikapcsoláshoz."
+msgstr ""
+
+msgstr "§c§lNem tudod megváltoztatni a vetemedést."
+msgstr ""
+
+msgstr ""
+"§eWarp állapota: §8Inaktív\n"
+"§fA többi játékos nem vetemedhet a tiédre\n"
+"§fisland. Állítson be vetemedési pontot a\n" segítségével
+"§d/sziget setwarp §f aktiválás előtt."
+msgstr ""
+
+msgstr "§e§lKattintson ide az aktiváláshoz."
+msgstr ""
+
+msgstr "§a§lIsland Log"
+msgstr ""
+
+msgstr ""
+"Eseménynapló megtekintése innen:\n"
+"az Ön szigete, például tagja,\n"
+"életrajz és vetemedésváltozások.\n"
+"§e§lKattintson a napló megtekintéséhez."
+msgstr ""
+
+msgstr "§a§lOtthoni hely megváltoztatása"
+msgstr ""
+
+msgstr ""
+"Amikor teleportálsz a saját\n"
+"sziget, ahová elvisznek\n"
+"ez a hely.\n"
+"§e§lKattintson ide a módosításhoz."
+msgstr ""
+
+msgstr "§a§lChange Warp Location"
+msgstr ""
+
+msgstr ""
+"Ha a vetemedés aktiválva van,\n"
+"a többi játékos ide kerül\n"
+"ezen a ponton, amikor teleportálnak\n"
+– a szigetedre.
+msgstr ""
+
+msgstr "§e§lKattintson ide a módosításhoz."
+msgstr ""
+
+msgstr "§c§lRestart Island"
+msgstr ""
+
+msgstr ""
+"Újraindítja a szigetet.\n"
+"4.§ FIGYELEM! §celtávolítja a tárgyakat és a szigetet!"
+msgstr ""
+
+msgstr "§c§lHagyja el a szigetet"
+msgstr ""
+
+msgstr ""
+"Elhagyja a szigetét.\n"
+"4.§ FIGYELMEZTETÉS! §celtávolítja az összes elemet!"
+msgstr ""
+
+msgstr "§cKattintson a kilépéshez"
+msgstr ""
+
+msgstr "Sziget újraindítás menü"
+msgstr ""
+
+msgstr "§eNincs hozzáférésed ehhez a szigetvázlathoz!"
+msgstr ""
+
+#, java formátum
+msgstr "§cKattintson a §9{0}§c pontra a kilépéshez!"
+msgstr ""
+
+msgstr "§a§lVissza a főmenübe"
+msgstr ""
+
+#, java formátum
+msgstr "§cKattintson a §9{0}§c pontra az újraindításhoz!"
+msgstr ""
+
+msgstr "§aKattintson az újraindításhoz!"
+msgstr ""
+
+msgstr "Caps On"
+msgstr ""
+
+msgstr "§9 Szövegszerkesztő"
+msgstr ""
+
+#, java formátum
+msgstr "Túl sok kérés a Mojangs API-hoz ({0} belül: {1}), alvó {2}"
+msgstr ""
+
+msgstr "§9Tartsd a lovaidat! Türelmesnek kell lenned..."
+msgstr ""
+
+msgstr "§9Nem igazán türelmes, ugye?"
+msgstr ""
+
+msgstr "§9Légy türelmes, fiatal padawan"
+msgstr ""
+
+msgstr "§9 Türelem KELL, fiatal padawan"
+msgstr ""
+
+msgstr "§9A két legerősebb harcos a türelem és az idő."
+msgstr ""
+
+msgstr "§eKüldünk spawnhoz."
+msgstr ""
+
+msgstr "" "§eA sziget §lezárva lett§e."
+msgstr ""
+
+msgstr "§4Nem találunk biztonságos otthoni helyet a szigeten!"
+msgstr ""
+
+msgstr "§cFIGYELMEZTETÉS: §eTeleportál a levegőbe."
+msgstr ""
+
+msgstr "§aTeleportál a szigetére."
+msgstr ""
+
+#, java formátum
+msgstr "§a0} másodpercen belül teleportálják."
+msgstr ""
+
+msgstr "§4Nem sikerült a játékos szigetére vetemedni!"
+msgstr ""
+
+#, java formátum
+msgstr "§aTeleportálunk {0} szigetére."
+msgstr ""
+
+msgstr "§7 Teleport megszakítva"
+msgstr ""
+
+msgstr "KÉSZ"
+msgstr ""
+
+msgstr ""
+"§cFIGYELEM:§e Nem sikerült az összes szükséges tételt átvinni a készletébe!"
+msgstr ""
+
+msgstr "§cNincs elég tárgy a ládában a kihívás teljesítéséhez!"
+msgstr ""
+
+msgstr "Valami hiba történt a sziget és/vagy a parti adatok mentése közben!"
+msgstr ""
+
+msgstr "" "Adatok konvertálása UUID-be, ez eltart egy ideig!"
+msgstr ""
+
+msgstr "" "§cMAINTENANCE:§e uSkyBlock jelenleg karbantartási módban van"
+msgstr ""
+
+#, java formátum
+msgstr ""
+"A §buSkyBlock§e a §9{0}§e >= §av{1}§e-től függ, de csak §cv{2}§e található!\n"
+msgstr ""
+
+#, java formátum
+msgstr "A §buSkyBlock§e a §9{0}§e >= §av{1}-tól függ"
+msgstr ""
+
+msgstr "" "§4A játékos már hozzá van rendelve ehhez a szigethez!"
+msgstr ""
+
+msgstr "§cA szigeted létrehozása folyamatban van, most nem hozhatsz létre."
+msgstr ""
+
+msgstr "Nem sikerült létrehozni a szigetet. Kérjük, lépjen kapcsolatba a szerver moderátorával."
+msgstr ""
+
+msgstr "§eA sziget előkészítése, kérem, legyen türelemmel, ez eltarthat egy ideig."
+msgstr ""
+
+msgstr "A §cCommand jelenleg le van tiltva!"
+msgstr ""
+
+msgstr "Észak"
+msgstr ""
+
+msgstr "Észak-kelet"
+msgstr ""
+
+msgstr "Kelet"
+msgstr ""
+
+msgstr "Dél-Kelet"
+msgstr ""
+
+msgstr "Dél"
+msgstr ""
+
+msgstr "Délnyugat"
+msgstr ""
+
+msgstr "Nyugat"
+msgstr ""
+
+msgstr "Északnyugat"
+msgstr ""
